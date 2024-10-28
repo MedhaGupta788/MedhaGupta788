@@ -36,8 +36,9 @@ Here are some of the projects I’ve worked on:
    - **Description**: A replica of the Netflix interface, this project showcases my skills in front-end development and user experience design. Users can browse through a list of movies and shows, with features like search and filtering.
    - **Technologies Used**: HTML, CSS.
 
-
-
+### 8. **Temperature Converter**
+   - **Description**: A simple temperature converter that allows users to convert temperatures between Celsius and Fahrenheit. The application provides an intuitive interface for users to input values and receive instant results.
+   - **Technologies Used**: HTML, CSS, JavaScript.
 
 ## 🚀 Skills
 
